@@ -3,7 +3,6 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
 # Telegram Bot Token
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 
